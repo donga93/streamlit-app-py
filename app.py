@@ -7,7 +7,7 @@ incomes = ["Salary", "3D Printing" , "Consulting"]
 expenses = [ "Rent", "Fiber" , "Water & Electricity" , "Groceries" , "Child Care" , "Car" ,"Other Expenses" , "Savings" , "Entertainment" ]  
 currency = "R"
 page_title = "Income and Expense Tracker "
-page_icon = ":money-with-wings:" # emojis: https://www.webfx.com/tools/emoji-cheat-sheet/
+page_icon = ":money_with_wings:" # emojis: https://www.webfx.com/tools/emoji-cheat-sheet/
 layout = "centered"
 # --------------------------------------
 
